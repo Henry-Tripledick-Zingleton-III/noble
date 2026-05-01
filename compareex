@@ -2,6 +2,12 @@ x = 6
 y = 7
 print(x != y)
 
+min_score = 13
+score = 13
+
+print(score > min_score)
+print(score <= min_score)
+
 
 
 
